@@ -5,27 +5,27 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 
 ## 2. Results
 
-![Checkout Times by users.png](./images/Checkout_Times_by_users.png)
+![Checkout Times by users](./images/Checkout_Times_by_users.png)
 
 The first visualization displays the checkout duration for users. Most users have a trip duration of one hour or less, since we see a peak before 20 minutes and a decline soon after. 
 
-<img width="906" alt="Screen Shot 2022-08-22 at 3 19 26 PM" src="https://user-images.githubusercontent.com/105089651/186004097-cd8f17ca-0715-4e72-81cf-d90a7a80a5bf.png">
+![Trips_by_Weekday_per_Hour](./images/Trips_by_Weekday_per_Hour.png)
 
 The second visualization shows the breakdown of the number of trips per weekday and per hour. Based on this graph, we can see that the darker areas are around 7am to 9am and 5pm to 7pm. This means that these are the most popular times for users to checkout a bike. It makes sense, because these tend to be times before people go to work and after work. Thus, it is ideal to use a bike for transportation. Also, we can see the most popular days of the week are Thursday through Sunday, the days at the end of a week. This could imply that biking is also a leisure activity for a lot of users.
 
-<img width="903" alt="Screen Shot 2022-08-22 at 3 18 49 PM" src="https://user-images.githubusercontent.com/105089651/186004442-566b43e1-006d-497c-962f-9a530f41661b.png">
+![Checkout_Times by_Gender](./images/Checkout_Times by_Gender.png)
 
 This next graph focuses on checkout times by gender. It is apparent that more males than females checkout bikes and again, the checkout time peaks before 20 minutes, so most rides last less than an hour.
 
-<img width="701" alt="Screen Shot 2022-08-22 at 3 24 16 PM" src="[https://github.com/salmanrazzaq-94/Bikesharing_Analysis/blob/main/images/Checkout%20Times%20by%20Gender.png?raw=true>
+![Trips_by_Gender](./images/Trips_by_Gender.png)
 
 Next, we see a visual of trips by gender, with a focus by weekday and by hour. Again, the pattern is similar to our previous visualization relating to checkout times by weekday by hour. We can see that most checkouts take place Monday through Friday from 7am to 9am and 5pm to 7pm. Now we can also notice the fact that most users during these times are male.  
 
-<img width="898" alt="Screen Shot 2022-08-22 at 3 22 34 PM" src="https://user-images.githubusercontent.com/105089651/186005878-bd57271c-e2b8-48d1-a6cb-0f62ef6e6699.png">
+![User_Trips_by_Gender_by_Weekday](./images/User_Trips_by_Gender_by_Weekday.png)
 
 This visualization displays user trips by gender, weekday, and user type. Based on the graph, most users are male subscribers. The most popular days for male subscribers are Thursday and Friday. 
 
-<img width="954" alt="Screen Shot 2022-08-22 at 3 21 47 PM" src="https://user-images.githubusercontent.com/105089651/186006733-35f258a3-fc86-4e04-8300-b771b3096b11.png">
+![Top_Locations.png](./images/Top_Locations.png.png)
 
 Lastly, the added visualization is the top starting and ending locations for riders. Both graphs follow a similar pattern. They have almost the same popularity in starting and ending locations. Most of these take place on the west part of the map, to almost the center.  
 
