@@ -5,7 +5,7 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 
 ## 2. Results
 
-![Checkout Times by users.png]("/images/Checkout Times by users.png")
+![Checkout Times by users.png]("./images/Checkout Times by users.png")
 
 The first visualization displays the checkout duration for users. Most users have a trip duration of one hour or less, since we see a peak before 20 minutes and a decline soon after. 
 
