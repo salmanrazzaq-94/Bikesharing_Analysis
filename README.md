@@ -13,7 +13,7 @@ The first visualization displays the checkout duration for users. Most users hav
 
 The second visualization shows the breakdown of the number of trips per weekday and per hour. Based on this graph, we can see that the darker areas are around 7am to 9am and 5pm to 7pm. This means that these are the most popular times for users to checkout a bike. It makes sense, because these tend to be times before people go to work and after work. Thus, it is ideal to use a bike for transportation. Also, we can see the most popular days of the week are Thursday through Sunday, the days at the end of a week. This could imply that biking is also a leisure activity for a lot of users.
 
-![Checkout_Times by_Gender](./images/Checkout_Times by_Gender.png)
+![Checkout_Times by_Gender](./images/Checkout_Times_by_Gender.png)
 
 This next graph focuses on checkout times by gender. It is apparent that more males than females checkout bikes and again, the checkout time peaks before 20 minutes, so most rides last less than an hour.
 
