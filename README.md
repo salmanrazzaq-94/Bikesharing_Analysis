@@ -5,7 +5,7 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 
 ## 2. Results
 
-<img width="901" alt="Screen Shot 2022-08-22 at 3 18 04 PM" src="https://user-images.githubusercontent.com/105089651/186003072-16eab062-8dd8-4ade-8d13-bb2358d94dd9.png">
+![Checkout Times by users.png](images/Checkout Times by users.png)
 
 The first visualization displays the checkout duration for users. Most users have a trip duration of one hour or less, since we see a peak before 20 minutes and a decline soon after. 
 
@@ -33,4 +33,4 @@ Lastly, the added visualization is the top starting and ending locations for rid
 
 Overall, there are clear conclusions from the data. As mentioned above, most users are male subscribers renting for a short amount of time, likely as a means of transportation to work around the beginning and end of their work day. For further analysis, I would look at gender and birth year of riders to get a better gauge on the users. I would also create a visualization for bike repair and trip duration, so I could figure out if the longer trips are affecting the need to repair. This would make the company more efficient and help get a better grasp on the consumers. 
 
-[link to dashboard]https://public.tableau.com/app/profile/salman.razzaq2876/viz/NYCBikeTripAnalysis_16612164842490/NYCBikeTripStory
+![link to dashboard](https://public.tableau.com/app/profile/salman.razzaq2876/viz/NYCBikeTripAnalysis_16612164842490/NYCBikeTripStory)
