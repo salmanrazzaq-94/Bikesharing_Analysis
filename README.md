@@ -25,7 +25,7 @@ Next, we see a visual of trips by gender, with a focus by weekday and by hour. A
 
 This visualization displays user trips by gender, weekday, and user type. Based on the graph, most users are male subscribers. The most popular days for male subscribers are Thursday and Friday. 
 
-![Top_Locations.png](./images/Top_Locations.png.png)
+![Top_Locations.png](./images/Top_Locations.png)
 
 Lastly, the added visualization is the top starting and ending locations for riders. Both graphs follow a similar pattern. They have almost the same popularity in starting and ending locations. Most of these take place on the west part of the map, to almost the center.  
 
